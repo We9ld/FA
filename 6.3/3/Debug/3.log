@@ -1,0 +1,140 @@
+﻿  3.cpp
+C:\Users\we8lb\Desktop\6.3\3\Ball.h(168,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\Ball.h(170,76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\Ball.h(170,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\Ball.h(170,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\Ball.h(170,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\Ball.h(176,1): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\Ball.h(177,1): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(16,1): warning C4005: ID_TEXTBOX2: изменение макроопределения
+C:\Users\we8lb\Desktop\6.3\3\resource.h(20): message : см. предыдущее определение "ID_TEXTBOX2"
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(17,1): warning C4005: ID_TEXTBOX3: изменение макроопределения
+C:\Users\we8lb\Desktop\6.3\3\resource.h(21): message : см. предыдущее определение "ID_TEXTBOX3"
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(18,1): warning C4005: ID_BUTTON: изменение макроопределения
+C:\Users\we8lb\Desktop\6.3\3\resource.h(24): message : см. предыдущее определение "ID_BUTTON"
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(292,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(385,44): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(386,44): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(388,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2388,23): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(156): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(156): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\detail\finder.hpp(578,55): warning C4244: аргумент: преобразование "T" в "char", возможна потеря данных
+          with
+          [
+              T=wchar_t
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\concept.hpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::iterator_range<IteratorT> boost::algorithm::detail::token_finderF<PredicateT>::operator ()<IteratorT>(ForwardIteratorT,ForwardIteratorT) const"
+          with
+          [
+              IteratorT=wchar_t *,
+              PredicateT=WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>,
+              ForwardIteratorT=wchar_t *
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\concept.hpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::iterator_range<IteratorT> boost::algorithm::detail::token_finderF<PredicateT>::operator ()<IteratorT>(ForwardIteratorT,ForwardIteratorT) const"
+          with
+          [
+              IteratorT=wchar_t *,
+              PredicateT=WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>,
+              ForwardIteratorT=wchar_t *
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\concept.hpp(41): message : во время компиляции функции-члена класс шаблон "void boost::algorithm::FinderConcept<FinderT,wchar_t *>::constraints(void)"
+          with
+          [
+              FinderT=boost::algorithm::detail::token_finderF<WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>>
+          ]
+T:\Boost\boost_1_72_0\boost\concept\detail\has_constraints.hpp(42): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::algorithm::FinderConcept<FinderT,wchar_t *>"
+          with
+          [
+              FinderT=boost::algorithm::detail::token_finderF<WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>>
+          ]
+T:\Boost\boost_1_72_0\boost\concept\detail\has_constraints.hpp(32): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::concepts::detail::yes boost::concepts::detail::has_constraints_(Model *,boost::concepts::detail::wrap_constraints<Model,&Model::constraints> *)"
+T:\Boost\boost_1_72_0\boost\concept\detail\msvc.hpp(58): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::concepts::not_satisfied<Model>"
+          with
+          [
+              Model=boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>>,wchar_t *>
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\iter_find.hpp(156): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "boost::concepts::require<boost::algorithm::FinderConcept<FinderT,wchar_t *>>"
+          with
+          [
+              FinderT=boost::algorithm::detail::token_finderF<WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>>
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\split.hpp(161): message : выполняется компиляция ссылки на экземпляр шаблон функции "SequenceSequenceT &boost::algorithm::iter_split<SequenceSequenceT,wchar_t*&,boost::algorithm::detail::token_finderF<PredicateT>>(SequenceSequenceT &,RangeT,FinderT)"
+          with
+          [
+              SequenceSequenceT=std::vector<std::string,std::allocator<std::string>>,
+              PredicateT=WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>,
+              RangeT=wchar_t *&,
+              FinderT=boost::algorithm::detail::token_finderF<WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>>
+          ]
+C:\Users\we8lb\Desktop\6.3\3\3.cpp(169): message : выполняется компиляция ссылки на экземпляр шаблон функции "SequenceSequenceT &boost::algorithm::split<std::vector<std::string,std::allocator<std::string>>,wchar_t*&,WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>>(SequenceSequenceT &,RangeT,PredicateT,boost::algorithm::token_compress_mode_type)"
+          with
+          [
+              SequenceSequenceT=std::vector<std::string,std::allocator<std::string>>,
+              RangeT=wchar_t *&,
+              PredicateT=WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(4833,19): warning C4244: аргумент: преобразование "_Ty" в "char", возможна потеря данных
+          with
+          [
+              _Ty=wchar_t
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\detail\finder.hpp(565): message : выполняется компиляция ссылки на экземпляр шаблон функции "_InIt std::find_if<ForwardIteratorT,PredicateT>(_InIt,const _InIt,_Pr)"
+          with
+          [
+              _InIt=wchar_t *,
+              ForwardIteratorT=wchar_t *,
+              PredicateT=WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>,
+              _Pr=WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\concept.hpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::iterator_range<IteratorT> boost::algorithm::detail::token_finderF<PredicateT>::operator ()<IteratorT>(ForwardIteratorT,ForwardIteratorT) const"
+          with
+          [
+              IteratorT=wchar_t *,
+              PredicateT=WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>,
+              ForwardIteratorT=wchar_t *
+          ]
+T:\Boost\boost_1_72_0\boost\algorithm\string\concept.hpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "boost::iterator_range<IteratorT> boost::algorithm::detail::token_finderF<PredicateT>::operator ()<IteratorT>(ForwardIteratorT,ForwardIteratorT) const"
+          with
+          [
+              IteratorT=wchar_t *,
+              PredicateT=WndProc::<lambda_52b96de07366f3d07b3a0a21cf581ffe>,
+              ForwardIteratorT=wchar_t *
+          ]
+  3.vcxproj -> C:\Users\we8lb\Desktop\6.3\Debug\3.exe

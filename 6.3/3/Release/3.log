@@ -1,0 +1,9 @@
+﻿  3.cpp
+C:\Users\anton\source\repos\3\3\Ball.h(168,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\anton\source\repos\3\3\Ball.h(170,76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\anton\source\repos\3\3\Ball.h(170,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\anton\source\repos\3\3\Ball.h(170,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\anton\source\repos\3\3\Ball.h(170,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\anton\source\repos\3\3\Ball.h(176,1): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+C:\Users\anton\source\repos\3\3\Ball.h(177,1): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+C:\Users\anton\source\repos\3\3\3.cpp(7,10): fatal error C1083: Не удается открыть файл включение: boost/date_time.hpp: No such file or directory,
