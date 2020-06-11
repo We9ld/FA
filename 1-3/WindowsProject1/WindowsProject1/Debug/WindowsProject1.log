@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Frost\source\repos\WindowsProject1\WindowsProject1\main.cpp(667,40): warning C4101:  e: неиспользованная локальная переменная
+C:\Users\Frost\source\repos\WindowsProject1\WindowsProject1\main.cpp(692,40): warning C4101:  e: неиспользованная локальная переменная
+C:\Users\Frost\source\repos\WindowsProject1\WindowsProject1\main.cpp(732,40): warning C4101:  e: неиспользованная локальная переменная
+C:\Users\Frost\source\repos\WindowsProject1\WindowsProject1\main.cpp(750,40): warning C4101:  e: неиспользованная локальная переменная
+  WindowsProject1.vcxproj -> C:\Users\Frost\source\repos\WindowsProject1\Debug\WindowsProject1.exe

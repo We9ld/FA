@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Frost\source\repos\WindowsProject2\WindowsProject2\main.cpp(323,53): warning C4018:  >: несоответствие типов со знаком и без знака
+C:\Users\Frost\source\repos\WindowsProject2\WindowsProject2\main.cpp(328,44): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Frost\source\repos\WindowsProject2\WindowsProject2\main.cpp(333,58): warning C4018:  >: несоответствие типов со знаком и без знака
+C:\Users\Frost\source\repos\WindowsProject2\WindowsProject2\main.cpp(338,44): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Frost\source\repos\WindowsProject2\WindowsProject2\main.cpp(390,53): warning C4018:  >: несоответствие типов со знаком и без знака
+C:\Users\Frost\source\repos\WindowsProject2\WindowsProject2\main.cpp(395,44): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Frost\source\repos\WindowsProject2\WindowsProject2\main.cpp(400,58): warning C4018:  >: несоответствие типов со знаком и без знака
+C:\Users\Frost\source\repos\WindowsProject2\WindowsProject2\main.cpp(405,44): warning C4018:  <: несоответствие типов со знаком и без знака
+  WindowsProject2.vcxproj -> C:\Users\Frost\source\repos\WindowsProject2\Debug\WindowsProject2.exe
